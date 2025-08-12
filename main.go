@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/pwnkcin/go-api/router"
+	"github.com/pwnkcin/go-api/server/router"
 )
 
 func main() {
